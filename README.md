@@ -1,6 +1,6 @@
 Enjoying code, enjoying live.  
 ## Now working on
-+ Customize galgame engine and script language  
++ Build a customize galgame(ADV) engine 
 + Use [ihslib](https://github.com/mariotaku/ihslib) to make a nintendo switch homebrew version steamlink  
 + More work on [nonebridge](https://github.com/ColdThunder11/nonebridge)
 
