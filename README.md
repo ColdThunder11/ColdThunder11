@@ -1,7 +1,8 @@
-Enjoying code, enjoying live.  
-## Now working on
-+ Build a customize visual novel(gamegame, ADV) engine 
-+ More work on [nonebridge](https://github.com/ColdThunder11/nonebridge)
+Busy at work now.  
+Open-source project may work slow or pause.
+## 🔭 Now working on
++ Build a customize visual novel(ADV, galgame) game engine 
++ ~~More work on [nonebridge](https://github.com/ColdThunder11/nonebridge)~~
 
 [![ColdThunder11's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdThunder11)](https://github.com/anuraghazra/github-readme-stats)   
    
