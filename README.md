@@ -1,8 +1,7 @@
-Busy at work now.  
-Open-source project may work slow or pause.
+Busy at work and cosplay now.  
+Open-source project may work slow.
 ## 🔭 Now working on
 + Build a customize visual novel(ADV, galgame) game engine 
-+ Make a third-party Bambu Lab printer management app to make cosplay props' workflow with AMS better  
 
 [![ColdThunder11's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdThunder11)](https://github.com/anuraghazra/github-readme-stats)   
    
